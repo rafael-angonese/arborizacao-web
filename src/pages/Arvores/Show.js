@@ -136,7 +136,7 @@ const CollaboratorShow = () => {
             <div style={{ height: '50vh', width: '100%' }}>
               <GoogleMapReact
                 bootstrapURLKeys={{
-                  key: 'AIzaSyDLi08y2VHqz3iK_NJpBrw3Gq8SF1OZTAM',
+                  key: 'key_maps_google',
                 }}
                 defaultCenter={center}
                 defaultZoom={zoom}
